@@ -1,0 +1,1 @@
+// Faça um progrma que leia um número real e imprima a quint aparte desse número.
