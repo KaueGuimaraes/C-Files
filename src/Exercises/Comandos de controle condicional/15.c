@@ -23,7 +23,7 @@ int main() {
     printf("Informe o valor de B: ");
     scanf("%f", &b);
 
-    printf("Infomre o valor de C: ");
+    printf("Informe o valor de C: ");
     scanf("%f", &c);
 
     if(a != 0) {
